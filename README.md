@@ -1,4 +1,4 @@
-#Android Studio Projects
+# Android Studio Projects
 
 A collection of my Android Studio Projects, whilst I learn and absorb the endless depths of Android Development.
 
